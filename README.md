@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Charlie Park</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-- 👨‍💻 My portfolio site is [here](https://www.charliecpark.com/) (WIP)
-
 - 📫 How to reach me **charliecpark@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
